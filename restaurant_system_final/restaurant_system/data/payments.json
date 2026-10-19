@@ -1,0 +1,12 @@
+[
+  {
+    "order_id": "O000001",
+    "amount": 30.0,
+    "method": "Cash"
+  },
+  {
+    "order_id": "O000003",
+    "amount": 50.0,
+    "method": "Cash"
+  }
+]

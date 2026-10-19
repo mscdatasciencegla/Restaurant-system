@@ -1,0 +1,30 @@
+[
+  {
+    "type": "FoodItem",
+    "id": "F1",
+    "name": "Pizza",
+    "price": 30.0,
+    "prep_time": 10
+  },
+  {
+    "type": "FoodItem",
+    "id": "F2",
+    "name": "Burger",
+    "price": 20.0,
+    "prep_time": 10
+  },
+  {
+    "type": "DrinkItem",
+    "id": "D1",
+    "name": "Cola",
+    "price": 5.0,
+    "size": "Medium"
+  },
+  {
+    "type": "FoodItem",
+    "id": "O1",
+    "name": "pasta",
+    "price": 30.0,
+    "prep_time": 15
+  }
+]
